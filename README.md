@@ -13,21 +13,4 @@ Este projeto tem como objetivo analisar as percepções de jovens sobre a chamad
 
 ---
 
-## 🗃️ Estrutura do Projeto
-
-crise-dos-20/
-├── data/
-│ └── respostas.csv # Dados exportados ou atualizados da API
-├── notebooks/
-│ └── eda.ipynb # Análise exploratória dos dados
-├── src/
-│ ├── fetch_sheets.py # Script para puxar dados via API Google Sheets
-│ ├── clean.py # Limpeza e padronização de colunas
-│ ├── analysis.py # Cálculos estatísticos e cruzamentos
-│ └── visualize.py # Geração de gráficos
-├── outputs/
-│ └── figuras/ # Gráficos salvos
-├── README.md # Este arquivo
-├── requirements.txt # Dependências do projeto
-└── .gitignore # Arquivos ignorados pelo Git
 
